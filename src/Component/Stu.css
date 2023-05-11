@@ -1,0 +1,17 @@
+.back{
+    background-color: rgb(0, 183, 255);
+}
+
+.button{
+    background-color: aqua;
+    float: right;
+   
+}
+.body{
+    background-image: linear-gradient(red, yellow);
+    width: 100uw;
+    height: 100vh;
+    
+}
+
+
